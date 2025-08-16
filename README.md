@@ -9,7 +9,7 @@ The goal is to solve at least **one problem every day** to improve problem-solvi
 
 | Day | Problem | Complexity |
 |-----|----------|------------|
-| 1   | - | - |
+| 1   | Leaders in Array | Time Complexity: O(n) and Space Complexity: O(n)|
 | 2   | - | - |
 | 3   | - | - |
 | 4   | - | - |
