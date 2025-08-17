@@ -10,7 +10,7 @@ The goal is to solve at least **one problem every day** to improve problem-solvi
 | Day | Problem | Complexity |
 |-----|----------|------------|
 | 1   | Leaders in Array | Time Complexity: O(n) and Space Complexity: O(n)|
-| 2   | - | - |
+| 2   | longest_consecutive_sequence | Time Complexity: O(n) average, O(n²) worst case and Space Complexity: O(n)|
 | 3   | - | - |
 | 4   | - | - |
 | 5   | - | - |
