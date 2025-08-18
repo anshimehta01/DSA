@@ -11,7 +11,7 @@ The goal is to solve at least **one problem every day** to improve problem-solvi
 |-----|----------|------------|
 | 1   | Leaders in Array | Time Complexity: O(n) and Space Complexity: O(n)|
 | 2   | longest_consecutive_sequence | Time Complexity: O(n) average, O(n²) worst case and Space Complexity: O(n)|
-| 3   | - | - |
+| 3   | NextPermutation | Time Complexity: O(n) and Space Complexity: O(1)|
 | 4   | - | - |
 | 5   | - | - |
 
