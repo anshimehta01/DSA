@@ -13,7 +13,7 @@ The goal is to solve at least **one problem every day** to improve problem-solvi
 | 2   | longest_consecutive_sequence | Time Complexity: O(n) average, O(n²) worst case and Space Complexity: O(n)|
 | 3   | NextPermutation | Time Complexity: O(n) and Space Complexity: O(1)|
 | 4   | Rotate_matrixby90degrees | Time Complexity: O(n²) and Space Complexity: O(1)
-| 5   | - | - |
+| 5   | setmatrixzeroes | Time Complexity: O(n × m) and Space Complexity: O(1)
 
 *(This table will be updated daily as new problems are solved.)*
 
