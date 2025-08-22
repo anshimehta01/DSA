@@ -15,6 +15,7 @@ The goal is to solve at least **one problem every day** to improve problem-solvi
 | 4   | Rotate_matrixby90degrees | Time Complexity: O(n²) and Space Complexity: O(1)
 | 5   | setmatrixzeroes | Time Complexity: O(n × m) and Space Complexity: O(1)
 | 6   | spiraltraverselofmatrix | Time Complexity: O(n × m) and Space Complexity: O(n × m) (O(1) extra space, excluding output)
+| 7   | count_subarrays_withsum_k | Time Complexity: O(n log n) with map, O(n) with unordered_map and Space Complexity: O(n)
 *(This table will be updated daily as new problems are solved.)*
 
 ---
