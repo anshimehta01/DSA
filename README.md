@@ -17,7 +17,7 @@ The goal is to solve at least **one problem every day** to improve problem-solvi
 | 6   | spiraltraverselofmatrix | Time Complexity: O(n × m) and Space Complexity: O(n × m) (O(1) extra space, excluding output)
 | 7   | count_subarrays_withsum_k | Time Complexity: O(n log n) with map, O(n) with unordered_map and Space Complexity: O(n)
 | 8   |Pascals_Triangle | Time Complexity: O(numRows²) and Space Complexity: O(numRows²)
-*(This table will be updated daily as new problems are solved.)*
+| 9   |Merge_Intervals | Time Complexity: O(n log n) and Space Complexity: O(n)
 
 ---
 
