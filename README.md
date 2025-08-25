@@ -18,6 +18,7 @@ The goal is to solve at least **one problem every day** to improve problem-solvi
 | 7   | count_subarrays_withsum_k | Time Complexity: O(n log n) with map, O(n) with unordered_map and Space Complexity: O(n)
 | 8   |Pascals_Triangle | Time Complexity: O(numRows²) and Space Complexity: O(numRows²)
 | 9   |Merge_Intervals | Time Complexity: O(n log n) and Space Complexity: O(n)
+| 9   |Majorityelementmorethan_n/3times| Time Complexity: O(n) and Space Complexity: O(1)
 
 ---
 
