@@ -1,4 +1,4 @@
-# DSA Daily Practice (C++ - LeetCode)
+# DSA Daily Practice (C++  LeetCode)
 
 This repository contains my **daily practice solutions** for Data Structures and Algorithms (DSA) from **LeetCode**, solved in **C++**.  
 The goal is to solve at least **one problem every day** to improve problem-solving skills and maintain coding consistency.
