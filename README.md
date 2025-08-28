@@ -20,7 +20,7 @@ The goal is to solve at least **one problem every day** to improve problem-solvi
 | 9   | Merge_Intervals | Time Complexity: O(n log n) and Space Complexity: O(n)
 | 10  | Majorityelementmorethan_n/3times| Time Complexity: O(n) and Space Complexity: O(1)
 | 11  | Mergesortedarray_withoutextraspace| Time Complexity: O((m+n)log(m+n)) and Space Complexity: O(1)
-| 11  | Find_duplicatenumber| Time Complexity: O(n) and Space Complexity: O(1)
+| 12  | Find_duplicatenumber| Time Complexity: O(n) and Space Complexity: O(1)
 ---
 
 
