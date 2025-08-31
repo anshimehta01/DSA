@@ -21,8 +21,8 @@ The goal is to solve at least **one problem every day** to improve problem-solvi
 | 10  | Majorityelementmorethan_n/3times| Time Complexity: O(n) and Space Complexity: O(1)
 | 11  | Mergesortedarray_withoutextraspace| Time Complexity: O((m+n)log(m+n)) and Space Complexity: O(1)
 | 12  | Find_duplicatenumber| Time Complexity: O(n) and Space Complexity: O(1)
-| 13  | | Time Complexity:  and Space Complexity:
-| 12  || Time Complexity: O(n) and Space Complexity: 
+| 13  | Search2Dmatrix| Time Complexity: O(log(m * n)) and Space Complexity: O(1)
+| 12  || Time Complexity: and Space Complexity: 
 ---
 
 
