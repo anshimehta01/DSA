@@ -24,7 +24,7 @@ The goal is to solve at least **one problem every day** to improve problem-solvi
 | 13  | Search2Dmatrix | Time Complexity: O(log(m * n)) and Space Complexity: O(1)
 | 14  | pow(x,n) | Time Complexity: O(log |n|) and Space Complexity: O(1)
 | 15  | Griduniquepaths | Time Complexity: O(min(m,n)) and Space Complexity: O(1)
----
+| 16  | Longestsubstringwithoutrepeatingcharacters | Time Complexity: O(n) and Space Complexity: O(k)
 
 
-
+O(n)
