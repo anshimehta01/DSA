@@ -25,6 +25,5 @@ The goal is to solve at least **one problem every day** to improve problem-solvi
 | 14  | pow(x,n) | Time Complexity: O(log |n|) and Space Complexity: O(1)
 | 15  | Griduniquepaths | Time Complexity: O(min(m,n)) and Space Complexity: O(1)
 | 16  | Longestsubstringwithoutrepeatingcharacters | Time Complexity: O(n) and Space Complexity: O(k)
+| 17  | Reverse Pairs| Time Complexity: O(n log n) and Space Complexity: O(n)
 
-
-O(n)
