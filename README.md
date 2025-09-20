@@ -28,3 +28,4 @@ The goal is to solve at least **one problem every day** to improve problem-solvi
 | 17  | Reverse Pairs| Time Complexity: O(n log n) and Space Complexity: O(n)
 | 18  | Repeating_and_missingnumbers| Time Complexity: O(n)  and Space Complexity: O(n)
 | 19  | | Time Complexity:  and Space Complexity: 
+| 20  | | Time Complexity:  and Space Complexity: 
