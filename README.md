@@ -30,4 +30,4 @@ The goal is to improve problem-solving skills and maintain coding consistency.
 | 19  | Two Sum | Time Complexity: O(n log n) and Space Complexity: O(n)
 | 20  | | Time Complexity:  and Space Complexity: 
 | 21 | Two Sum | Time Complexity: O(n log n) and Space Complexity: O(n)
-| 22
+| 22 |
