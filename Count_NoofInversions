@@ -1,0 +1,45 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    const int MOD = 1e9 + 7;
+    
+    int numberOfPermutations(int n, vector<vector<int>>& requirements) {
+        sort(requirements.begin(), requirements.end()); // sort by endi
+        
+        // DP[i][k] = # of ways to build permutation of length i with k inversions
+        int max_inv = n*(n-1)/2;
+        vector<vector<long long>> dp(n+1, vector<long long>(max_inv+1, 0));
+        dp[0][0] = 1;
+        
+        for(int i = 1; i <= n; i++) {
+            vector<long long> prefix(max_inv+2, 0);
+            for(int k = 0; k <= max_inv; k++)
+                prefix[k+1] = (prefix[k] + dp[i-1][k]) % MOD;
+            
+            for(int k = 0; k <= max_inv; k++) {
+                int left = max(0, k-i+1);
+                int right = k+1;
+                dp[i][k] = (prefix[right] - prefix[left] + MOD) % MOD;
+            }
+
+            // Apply requirements that end at i-1
+            for(auto &r : requirements) {
+                int endi = r[0], cnti = r[1];
+                if(endi == i-1) { // prefix ending here
+                    for(int k = 0; k <= max_inv; k++) {
+                        if(k != cnti) dp[i][k] = 0;
+                    }
+                }
+            }
+        }
+        
+        // Sum all permutations of length n
+        long long ans = 0;
+        for(int k = 0; k <= max_inv; k++)
+            ans = (ans + dp[n][k]) % MOD;
+        
+        return (int)ans;
+    }
+};
