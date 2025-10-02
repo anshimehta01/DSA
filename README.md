@@ -29,5 +29,6 @@ The goal is to improve problem-solving skills and maintain coding consistency.
 | 18  | Repeating_and_missingnumbers| Time Complexity: O(n)  and Space Complexity: O(n)
 | 19  | Two Sum | Time Complexity: O(n log n) and Space Complexity: O(n)
 | 20  | Count_NoOfInversions| Time Complexity: O(n³) and Space Complexity: O(n × n²) = O(n³)
-| 19  | Four Sum | Time Complexity: O(n^3) and Space Complexity: O(1)
+| 21  | Longest Subarray with sum k | Time Complexity: O(n) and Space Complexity: O(1)
+| 22  | Four Sum | Time Complexity: O(n^3) and Space Complexity: O(1)
 
