@@ -31,5 +31,5 @@ The goal is to improve problem-solving skills and maintain coding consistency.
 | 20  | Count_NoOfInversions| Time Complexity: O(n³) and Space Complexity: O(n × n²) = O(n³)
 | 21  | Longest Subarray with sum k | Time Complexity: O(n) and Space Complexity: O(1)
 | 22  | Four Sum | Time Complexity: O(n^3) and Space Complexity: O(1)
-| 23  | Longest Subarray with sum k | Time Complexity: O(n) and Space Complexity: O(1)
+
 
