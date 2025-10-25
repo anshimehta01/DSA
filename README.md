@@ -33,5 +33,7 @@ The goal is to improve problem-solving skills and maintain coding consistency.
 | 22  | Four Sum | Time Complexity: O(n^3) and Space Complexity: O(1)
 | 23  | ReverseLinkedList | Time Complexity: O(n) and Space Complexity: O(1)
 | 24  | MiddleofLinkedList | Time Complexity: O(n) and Space Complexity: O(1)
-
+| 25  | DeleteNodeinLinkedList | Time Complexity: O(1)  and Space Complexity: O(1)
+| 26  | AddTwoNumbers | Time Complexity: O(max(N, M)) and Space Complexity: O(max(N, M))
+| 27  | MergeTwoSortedLists | Time Complexity: O(N + M) and Space Complexity: O(N + M)
 
