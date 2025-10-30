@@ -36,4 +36,11 @@ The goal is to improve problem-solving skills and maintain coding consistency.
 | 25  | DeleteNodeinLinkedList | Time Complexity: O(1)  and Space Complexity: O(1)
 | 26  | AddTwoNumbers | Time Complexity: O(max(N, M)) and Space Complexity: O(max(N, M))
 | 27  | MergeTwoSortedLists | Time Complexity: O(N + M) and Space Complexity: O(N + M)
-
+| 28  | LinkedListcycle | Time Complexity:   and Space Complexity: 
+| 29  | MaximumConsecutiveOnes | Time Complexity:  and Space Complexity:
+| 30  | IntersectionOfTwoLinkedList | Time Complexity:  and Space Complexity: 
+| 31  | PalindromeLinkedList | Time Complexity:  and Space Complexity: 
+| 32  | RemoveDuplicateFromSortedArray | Time Complexity:  and Space Complexity:
+| 33  | LinkedListCycle2 | Time Complexity:  and Space Complexity: 
+| 34  | RotataeLinkedList | Time Complexity:  and Space Complexity: 
+| 35  | FlatteningOfLinkedList | Time Complexity:  and Space Complexity: 
