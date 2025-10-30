@@ -42,5 +42,5 @@ The goal is to improve problem-solving skills and maintain coding consistency.
 | 31  | PalindromeLinkedList | Time Complexity:  and Space Complexity: 
 | 32  | RemoveDuplicateFromSortedArray | Time Complexity:  and Space Complexity:
 | 33  | LinkedListCycle2 | Time Complexity:  and Space Complexity: 
-| 34  | RotataeLinkedList | Time Complexity:  and Space Complexity: 
+| 34  | RotateLinkedList | Time Complexity:  and Space Complexity: 
 | 35  | FlatteningOfLinkedList | Time Complexity:  and Space Complexity: 
